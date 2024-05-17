@@ -1,0 +1,51 @@
+.attribution { 
+    font-size: 11px; 
+    text-align: center;
+}
+
+.attribution a { 
+    color: hsl(228, 45%, 44%); 
+}
+
+.empty{
+    margin: -20px;
+}
+
+.ens{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+    width: 260px;
+    margin: auto;
+    padding: 10px;
+    border-radius: 20px;
+    height: 450px;
+    background-color: white;
+    box-shadow: 5px 5px 5px rgb(0, 0, 0, 0.1);
+}
+
+.ens img{
+    margin-top: -20px;
+    height: 250px;
+    width: 250px;
+}
+
+b{
+    padding-top: 30px;
+    font-size: 20px;
+    text-align: center;
+    color: #555f73;
+}
+
+.ens p{
+    text-align: center;
+    color: #7c8394;
+}
+
+main{
+    background-color: #d4e4ec;
+    display: flex;
+    flex-direction: column;
+    gap: 150px;
+}
